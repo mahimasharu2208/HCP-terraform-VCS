@@ -1,8 +1,6 @@
 # HCP-terraform-VCS
 Integration of diff VCS connections with HCP terraform
 
-### VCS Integrations
-
 #### Github oauth and gitlab integration
 ![VCS1](https://github.com/mahimasharu2208/HCP-terraform-VCS/blob/main/Uploads/VCS1.png)
 
